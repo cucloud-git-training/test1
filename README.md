@@ -1,7 +1,7 @@
 ## README.md 
 (markdown language references) 
-<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-<https://learnxinyminutes.com/docs/markdown/>
+* <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+* <https://learnxinyminutes.com/docs/markdown/>
 
 ## Synopsis
 
